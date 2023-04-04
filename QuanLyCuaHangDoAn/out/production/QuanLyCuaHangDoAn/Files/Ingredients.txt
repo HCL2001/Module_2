@@ -1,0 +1,4 @@
+1,Name A,Type A,76
+2,Name B,Type B,60
+3,Name C,Type C,100
+4,Name D,Type D,100
